@@ -1,4 +1,4 @@
-package com.multi_spring_configurable_context.b;
+package org.example;
 
 import net.rgielen.fxweaver.core.FxmlView;
 import org.springframework.stereotype.Controller;

@@ -1,6 +1,5 @@
-package com.multi_spring_configurable_context.a;
+package org.example;
 
-import com.multi_spring_configurable_context.MainA;
 import javafx.application.Platform;
 import javafx.scene.Parent;
 import javafx.scene.Scene;

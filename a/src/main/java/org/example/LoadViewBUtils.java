@@ -1,14 +1,11 @@
-package com.multi_spring_configurable_context.utils;
+package org.example;
 
-import com.multi_spring_configurable_context.MainB;
 import lombok.extern.slf4j.Slf4j;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
-import static com.multi_spring_configurable_context.a.StageAListener.stage;
 
 @Slf4j
 public class LoadViewBUtils {

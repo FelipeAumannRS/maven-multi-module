@@ -1,6 +1,5 @@
-package com.multi_spring_configurable_context.a;
+package org.example;
 
-import com.multi_spring_configurable_context.MainA;
 import javafx.application.Application;
 import javafx.stage.Stage;
 import lombok.extern.slf4j.Slf4j;

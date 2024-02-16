@@ -1,11 +1,10 @@
-package com.multi_spring_configurable_context;
+package org.example;
 
-import com.multi_spring_configurable_context.b.BInitializer;
 import javafx.application.Application;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.support.AbstractApplicationContext;
 
-@SpringBootApplication(scanBasePackages = {"com.multi_spring_configurable_context.b"})
+@SpringBootApplication
 public class MainB {
 
     public static AbstractApplicationContext contextB;

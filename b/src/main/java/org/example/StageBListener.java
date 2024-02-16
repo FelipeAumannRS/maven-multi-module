@@ -1,4 +1,4 @@
-package com.multi_spring_configurable_context.b;
+package org.example;
 
 import javafx.scene.Parent;
 import javafx.scene.Scene;
